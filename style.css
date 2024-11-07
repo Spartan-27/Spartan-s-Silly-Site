@@ -1,0 +1,23 @@
+/* 
+  style.css
+  spring 2022
+  prof. lehman
+
+  sample CSS style sheet for CS 111 web page assignment
+*/
+
+body {
+    background-color: #800080 ;
+}
+
+h1 {   
+	color: orange;
+}
+
+p {
+    font-family: "Comic Sans MS", Arial, sans-serif;
+}
+
+ol {
+    list-style: lower-roman;
+}
